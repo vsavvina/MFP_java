@@ -1,4 +1,10 @@
+Point1.java
+ Point1
+Point.java
+ Point
 MyFirstProgramm.java
  MyFirstProgramm
 Kvadrat.java
  Kvadrat
+Point2.java
+ Point2
